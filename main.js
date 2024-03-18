@@ -17,7 +17,7 @@ document.querySelector('#app').innerHTML = `
       <img src="${logo}" class="logo" alt="JS Essentials for WP Devs by Aurooba Ahmed" />
 	  <h1>JS Essentials for WP Devs</h1>
     </a>
-	<h2>Lesson 13 – How Babel Works</h2>
+	<h2>Lesson 14 – More on Objects</h2>
   </div>
 `
 //<h2>👇🏽 It's all in the Console Log</h2>
